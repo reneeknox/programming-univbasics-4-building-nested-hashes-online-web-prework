@@ -31,6 +31,6 @@
 #   }
 # }
 
-def base_hash
+def monopoly
   monopoly = {}
 end
